@@ -1,4 +1,4 @@
-# COGS 188 - AI Algorithms and Reinforcement Learning
+# COGS 118A - Supervised Machine Learning
 
 ## Cognitive Science Department, UC San Deigo
 
